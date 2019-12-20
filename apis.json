@@ -1,0 +1,60 @@
+{
+    "name": "UltraCart",
+    "description": "UltraCart's shopping cart software is the best way to sell online. Signup for a free trial of our Ecommerce software solution today!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1199-ultracart.jpg",
+    "tags": [
+        "have api",
+        "orders"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ultracart\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "UltraCart",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1199-ultracart.jpg",
+            "humanURL": "http:\/\/docs.ultracart.com\/display\/ucdoc\/Order+Management+Web+Service",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ultracart-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ultracart-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/docs.ultracart.com\/display\/ucdoc\/Order+Management+Web+Service"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/bps-info-solutions"
+        },
+        {
+            "type": "Email",
+            "url": "support@ultracart.com"
+        },
+        {
+            "type": "Email",
+            "url": "dmca@ultracart.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@ultracart.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/UltraCart"
+        }
+    ]
+}
